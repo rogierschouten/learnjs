@@ -1,10 +1,16 @@
 
+## Notes
+
+Website endpoint:
+*  http://learnjs.workingcode.ninja.s3-website-us-east-2.amazonaws.com
+
+
 ## Change Log
 
 ### Beta 3 Changes
 
   * Compensating for AWSCLI timing issues when creating roles
-  
+
 ### Beta 2 Changes
 
   * Now using 'admin' profile instead of default profile
